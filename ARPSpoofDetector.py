@@ -102,7 +102,6 @@ class Detector():
         print("                                 |_|                                                             ")
         print("# ==============================================================================")
         print("# author         : Mustafa Dalga")
-        print("# website        : https://apierson.com")
         print("# linkedin       : https://www.linkedin.com/in/mustafadalga")
         print("# github         : https://github.com/mustafadalga")
         print("# email          : mustafadalgaa < at > gmail[.]com")
